@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Text Recognition</string>
+    <string name="label_recognize_text">Reconocer texto</string>
 </resources>

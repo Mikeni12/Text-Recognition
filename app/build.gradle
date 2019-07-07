@@ -31,4 +31,11 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+    // Firebase dependencies
+    implementation 'com.google.firebase:firebase-ml-vision:21.0.0'
+    // Camera dependencies
+    implementation 'com.wonderkiln:camerakit:0.13.1'
 }
+
+apply plugin: 'com.google.gms.google-services'
